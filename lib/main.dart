@@ -14,7 +14,7 @@ void main() {
       home: Scaffold(
         appBar: AppBar(
           title: Text('my app'),
-          backgroundColor: Colors.red,
+          backgroundColor: const Color.fromARGB(255, 58, 160, 255),
           centerTitle: true,
         ),
         // body: Center(child: Text('hello world')),
